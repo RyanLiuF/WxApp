@@ -10,7 +10,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#e64340",
-    "navigationBarTitleText": "艾迪尔家居在线",
+    "navigationBarTitleText": "艾迪尔名家居在线",
     "navigationBarTextStyle":"#fff"
   },
   "tabBar":{
@@ -19,13 +19,13 @@
     "backgroundColor":"#000",
     "list":[
       {
-        "text":"案例",
+        "text":"首页",
         "pagePath":"pages/case/list/list",
         "iconPath":"images/case.png",
         "selectedIconPath":"images/case1.png"
       },
       {
-        "text":"设计师",
+        "text":"设计",
         "pagePath":"pages/designer/designer",
         "iconPath":"images/pic.png",
         "selectedIconPath":"images/pic1.png"

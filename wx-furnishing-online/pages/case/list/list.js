@@ -11,7 +11,10 @@ Page({
         page:1,//当前页码
         hasMore:false,//加载更多按钮
         moreTxt:'点击加载更多',
-        dataNull:true
+        dataNull:true,
+        filterList:{
+          area_list:['90','100','110','120','130']
+        }
     },
     onReady: function() {
         //初始化数据
